@@ -1,0 +1,140 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+.content-header {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding-right: 20px;
+  margin-bottom: 10px;
+}
+
+.subjects-button {
+  background: none;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.subjects-dropdown {
+  position: absolute;
+  top: 17%;
+  right: 20px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  z-index: 1000;
+}
+
+.subject-option {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.subject-option:hover {
+  background-color: #f0f0f0;
+}
+
+.content-card {
+  width: 100%;
+  max-width: 800px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.date-widget {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.arrow-button {
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.date-display {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.task-card {
+  margin-bottom: 20px;
+}
+
+.task-card h3 {
+  margin: 0;
+}
+
+.task-card p,
+.task-card ul {
+  margin: 5px 0;
+}
+
+
+/* Contenedor del modal */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Contenido del modal */
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Contenedor del calendario */
+.date-picker {
+  border-radius: 5px;
+  box-shadow: none;
+}
+
+/* Botones de flecha */
+.arrow-button {
+  background: none; /* Sin fondo */
+  border: none; /* Sin borde */
+  padding: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.arrow-button:hover {
+  font-weight: bold;
+  color: #21c3e0c4;
+}
+
+/* Display de fecha */
+.date-display {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+  cursor: pointer;
+}
