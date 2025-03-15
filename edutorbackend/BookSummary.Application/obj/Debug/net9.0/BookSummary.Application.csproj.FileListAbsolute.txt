@@ -1,0 +1,4 @@
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Application\obj\Debug\net9.0\BookSummary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Application\obj\Debug\net9.0\BookSummary.Application.AssemblyInfoInputs.cache
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Application\obj\Debug\net9.0\BookSummary.Application.AssemblyInfo.cs
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Application\obj\Debug\net9.0\BookSummary.Application.csproj.CoreCompileInputs.cache

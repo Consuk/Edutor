@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "j4ymeFJAU5eY0UBwcRLkN7LHxCTiA/7+tUvUSeIlIas=",
+  "Source": "BookSummary.Web",
+  "BasePath": "_content/BookSummary.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

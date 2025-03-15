@@ -1,0 +1,11 @@
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\bin\Debug\net9.0\BookSummary.Domain.deps.json
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\bin\Debug\net9.0\BookSummary.Domain.dll
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\bin\Debug\net9.0\BookSummary.Domain.pdb
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\BookSummary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\BookSummary.Domain.AssemblyInfoInputs.cache
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\BookSummary.Domain.AssemblyInfo.cs
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\BookSummary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\BookSummary.Domain.dll
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\refint\BookSummary.Domain.dll
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\BookSummary.Domain.pdb
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Domain\obj\Debug\net9.0\ref\BookSummary.Domain.dll

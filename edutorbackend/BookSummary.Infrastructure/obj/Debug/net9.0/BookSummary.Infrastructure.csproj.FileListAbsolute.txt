@@ -1,0 +1,11 @@
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\bin\Debug\net9.0\BookSummary.Infrastructure.deps.json
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\bin\Debug\net9.0\BookSummary.Infrastructure.dll
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\bin\Debug\net9.0\BookSummary.Infrastructure.pdb
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\BookSummary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\BookSummary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\BookSummary.Infrastructure.AssemblyInfo.cs
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\BookSummary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\BookSummary.Infrastructure.dll
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\refint\BookSummary.Infrastructure.dll
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\BookSummary.Infrastructure.pdb
+C:\Users\trabajo\Documents\edutorbackend\BookSummary.Infrastructure\obj\Debug\net9.0\ref\BookSummary.Infrastructure.dll
